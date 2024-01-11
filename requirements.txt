@@ -1,0 +1,7 @@
+flask
+requests
+flask_cors
+requests.auth
+cfenv
+hdbcli
+# datetime

@@ -1,0 +1,7 @@
+applications:
+- name: nfa_App
+  memory: 1024MB
+  stack: cflinuxfs3
+  random-route: true
+  buildpack: python_buildpack
+  command: python app.py
